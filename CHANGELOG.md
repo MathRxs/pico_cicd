@@ -1,4 +1,10 @@
 # CHANGELOG.md
+## v0.0.5
+Fixes:
+ - none
+ 
+Features:
+    - added CI/CD pipeline
 
 ## v0.0.4
 Fixes:
